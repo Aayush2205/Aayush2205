@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aayush
+- 👋 Hi, This is Aayush
 - 👀 I’ve my interests in BackEnd Development
 - 🌱 I’m currently learning Javascript and solidity for Ethereum Blockchain
 
